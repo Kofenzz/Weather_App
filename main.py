@@ -36,4 +36,3 @@ print(f'Viteza vantului in orasul {CITY}: {wind_speed}m/s\n')
 print(f"Vreme generala {CITY}: {description}")
 print(f"Rasaritul in {CITY}: {sunrise_time}")
 print(f"Apusul in  {CITY}: {sunset_time}")
-
